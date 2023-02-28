@@ -1,0 +1,1 @@
+L'application utilise la bibliothèque [Gson](https://github.com/google/gson) pour charger le(s) labyrinthe(s).
